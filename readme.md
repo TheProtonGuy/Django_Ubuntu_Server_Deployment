@@ -1,5 +1,8 @@
 # Deploying django project to vps:
 
+### Tutorial video
+[![Django ubuntu deployment](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FRsrJzKPigc4)](https://youtu.be/RsrJzKPigc4)
+
 - Prerequisites: 
     - Create a requirements.txt file that contains all packages used in project:  
         - `pip freeze > requirements.txt`
